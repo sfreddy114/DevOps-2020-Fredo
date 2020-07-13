@@ -33,6 +33,22 @@ Before you move on, go ahead and explore the repository. You've already seen the
 
 ---
 
+Next, you'll add***a new file to this repository.
+
+* Click the **New file** button at the top of the **Source** page.
+* Give the file a filename of **contributors.txt**.
+* Enter your name in the empty file space.
+* Click **Commit** and then **Commit** again in the dialog.
+* Go back to the **Source** page.
+Next, you'll add***a new file to this repository.
+
+* Click the **New file** button at the top of the **Source** page.
+* Give the file a filename of **contributors.txt**.
+* Enter your name in the empty file space.
+* Click **Commit** and then **Commit** again in the dialog.
+* Go back to the **Source** page.
+
+
 > Dorothy followed her through many of the beautiful rooms in her castle.
 >
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
