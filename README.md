@@ -25,7 +25,7 @@ When you're done, you can delete the content in this README and update the file 
 
 ## Create a file
 
-Next, you’ll add***a new file to this repository.
+Next, you'll add***a new file to this repository.
 
 * Click the **New file** button at the top of the **Source** page.
 * Give the file a filename of **contributors.txt**.
