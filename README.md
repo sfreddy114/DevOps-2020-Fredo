@@ -8,22 +8,24 @@ When you're done, you can delete the content in this README and update the file 
 
 ---
 
+|-----------------|--------------|-----------------|----------------|
 | Default aligned | Left aligned | Center aligned  | Right aligned  |
 |-----------------|:-------------|:---------------:|---------------:|
 | First body part | Second cell  | Third cell      | fourth cell    |
 | Second line     | foo          | **strong**      | baz            |
 | Third line      | quux         | baz             | bar            |
-|-----------------+--------------+-----------------+----------------|
+|-----------------|--------------|-----------------|----------------|
 | Second body     |              |                 |                |
 | 2nd line        |              |                 |                |
-|-----------------+--------------+-----------------+----------------|
+|-----------------|--------------|-----------------|----------------|
 | Third body      |              |                 | Foo            |
+|-----------------|--------------|-----------------|----------------|
 
 ---
 
 ## Create a file
 
-Next, youâ€™ll add***a new file to this repository.
+Next, you’ll add***a new file to this repository.
 
 * Click the **New file** button at the top of the **Source** page.
 * Give the file a filename of **contributors.txt**.
