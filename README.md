@@ -8,7 +8,6 @@ When you're done, you can delete the content in this README and update the file 
 
 ---
 
-|-----------------|--------------|-----------------|----------------|
 | Default aligned | Left aligned | Center aligned  | Right aligned  |
 |-----------------|:-------------|:---------------:|---------------:|
 | First body part | Second cell  | Third cell      | fourth cell    |
@@ -19,7 +18,6 @@ When you're done, you can delete the content in this README and update the file 
 | 2nd line        |              |                 |                |
 |-----------------|--------------|-----------------|----------------|
 | Third body      |              |                 | Foo            |
-|-----------------|--------------|-----------------|----------------|
 
 ---
 
